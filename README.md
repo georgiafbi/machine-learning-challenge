@@ -1,10 +1,10 @@
-# Machine Learning Homework - Exoplanet Exploration
+# Machine Learning Challenge - Exoplanet Exploration
 
 ![exoplanets.jpg](Images/exoplanets.jpg)
 
 ### Before You Begin
 
-1. Create a new repository for this project called `machine-learning-challenge`. **Do not add this homework to an existing repository**.
+1. Create a new repository for this project called `machine-learning-challenge`. 
 
 2. Clone the new repository to your computer.
 
@@ -16,7 +16,7 @@
 
 ## Note
 
-Keep in mind that this homework is optional! However, you will gain a much greater understanding of testing and tuning different Classification models if you do complete it.
+Keep in mind that this challenge is optional! However, you will gain a much greater understanding of testing and tuning different Classification models if you do complete it.
 
 ## Background
 
@@ -24,7 +24,7 @@ Over a period of nine years in deep space, the NASA Kepler space telescope has b
 
 To help process this data, you will create machine learning models capable of classifying candidate exoplanets from the raw dataset.
 
-In this homework assignment, you will need to:
+In this challenge, you will need to:
 
 1. [Preprocess the raw data](#Preprocessing)
 2. [Tune the models](#Tune-Model-Parameters)
